@@ -8,3 +8,6 @@ You'll need `node` > 15.0.0 and `npm`.<br><br>
 4. Run it! `node .`
 ## Troubleshooting
 <b>Not showing up?</b> Make sure that `Display current activity as a status message` is enabled in your `Activity Privacy` settings on Discord.
+## Screenshots
+![Screenshot of Intel processor](https://user-images.githubusercontent.com/46039037/207209367-64274e03-ff02-4378-bb59-688b6591df83.png)
+![Screenshot of AMD processor](https://user-images.githubusercontent.com/46039037/207209388-33dd6a5e-28e5-4e17-98a4-d6ac6f71247e.png)
