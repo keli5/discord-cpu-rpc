@@ -1,0 +1,16 @@
+{
+  "name": "cpurpc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "keli5",
+  "license": "MIT",
+  "dependencies": {
+    "discord-rich-presence": "^0.0.8",
+    "node-os-utils": "^1.3.7",
+    "systeminformation": "^5.16.6"
+  }
+}
