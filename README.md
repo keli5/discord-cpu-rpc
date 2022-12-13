@@ -1,7 +1,7 @@
 # discord-cpu-rpc
 Show your friends how computer your computer is
 ## Installation
-You'll need `node` and `npm`.<br><br>
+You'll need `node` > 15.0.0 and `npm`.<br><br>
 1. Clone it: `git clone https://github.com/keli5/discord-cpu-rpc`<br>
 2. Enter folder: `cd discord-cpu-rpc`<br>
 3. Install dependencies: `npm install`<br>
