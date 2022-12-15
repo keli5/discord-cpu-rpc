@@ -18,6 +18,8 @@ async function retrieveCpuInfo() {
         cpuBrandName = "AMD"
     } else if (processor.manufacturer.startsWith("Intel")) {
         cpuBrandName = "Intel"
+    } else if (processor.manufacturer.startsWith("Apple")) {
+        cpuBrandName = "Apple"
     } else {
         cpuBrandName = "unknown"
     }
